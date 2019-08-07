@@ -1,5 +1,13 @@
 {
     "Name": "Multi-domain task battery (MDTB)",
-    "BIDSVersion":  "1.2.0",
-    "Authors": ["Jonathon Walters", "Russell A. Poldrack", "Maedbh King", "Jorn Diedrichsen", "Richard Ivry"]
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Jonathon Walters",
+        "Russell A. Poldrack",
+        "Maedbh King",
+        "Jorn Diedrichsen",
+        "Richard Ivry"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002105.v1.0.0",
+    "License": "CC0"
 }

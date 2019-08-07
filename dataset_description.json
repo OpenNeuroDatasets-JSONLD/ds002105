@@ -1,0 +1,5 @@
+{
+    "Name": "Multi-domain task battery (MDTB)",
+    "BIDSVersion":  "1.2.0",
+    "Authors": ["Jonathon Walters", "Russell A. Poldrack", "Maedbh King", "Jorn Diedrichsen", "Richard Ivry"]
+}

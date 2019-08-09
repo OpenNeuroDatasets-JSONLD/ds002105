@@ -1,5 +1,5 @@
-This dataset contains cerebellar data from the Multi-Domain Task Battery (MDTB)
-Description: 26 unique cognitive tasks collected across 4 fMRI scanning sessions
+This dataset contains cerebellar fMRI data from the Multi-Domain Task Battery (MDTB).
+Description: 26 unique cognitive tasks collected across 4 fMRI scanning sessions.
 
 Please cite the following reference if you use these data: 
 King, M., Hernandez-Castillo, C. R., Poldrack, R. A., Ivry, R. B., & Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nature neuroscience.

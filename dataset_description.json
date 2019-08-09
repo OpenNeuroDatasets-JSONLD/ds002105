@@ -12,5 +12,5 @@
     "License": "CC0",
     "Funding": [],
     "ReferencesAndLinks": [],
-    "Acknowledgements": "Please cite the following reference if you use these data: \nKing, M., Hernandez-Castillo, C. R., Poldrack, R. A., Ivry, R. B., & Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nature neuroscience.\n\nThank you to Jon Walters for formatting the data into BIDS."
+    "Acknowledgements": "Please cite the following reference if you use these data: \nKing, M., Hernandez-Castillo, C. R., Poldrack, R. A., Ivry, R. B., & Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nature neuroscience.\n\nThank you to Jonathon Walters for formatting the data into BIDS."
 }

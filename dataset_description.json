@@ -10,5 +10,7 @@
     ],
     "HowToAcknowledge": "Please cite the following reference if you use these data: \nKing, M., Hernandez-Castillo, C.R., Poldrack, R.A., Ivry, R.B., and Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nat. Neurosci. 22, 1371\u20131378.",
     "License": "CC0",
-    "Funding": []
+    "Funding": [
+        "This work was supported by the James S. McDonnell Foundation (Scholar award to J.D.), the Canadian Institutes of Health Research (PJT 159520 to J.D.), a Platform Support Grant from Brain Canada and the Canada First Research Excellence Fund (BrainsCAN to Western University), the National Science Foundation (OAC-1649658 to R.P.), and the National Institute of Health (NS092079, NS105839 to R.B.I.). "
+    ]
 }

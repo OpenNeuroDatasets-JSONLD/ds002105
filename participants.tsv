@@ -1,32 +1,25 @@
-subj_id,sex,previous_mri,native_english,ses-a1,ses-a2,ses-b1,ses-b2,ses-rest
-sub-01,F,Y,Y,False,False,False,False,False
-sub-02,F,Y,N ,True,True,True,True,True
-sub-03,F,N,Y,True,True,True,True,True
-sub-04,M,Y,Y,True,True,True,True,False
-sub-05,M,N,N,False,False,False,False,False
-sub-06,F,Y,Y,True,True,True,True,True
-sub-07,M,Y,N,False,False,False,False,True
-sub-08,F,Y,Y,True,True,True,True,True
-sub-09,M,Y,Y,True,True,True,True,False
-sub-10,F,Y,Y,True,True,True,True,True
-sub-11,F,Y,Y,False,False,False,False,False
-sub-12,F,N,Y,True,True,True,True,True
-sub-13,F,Y,Y,False,False,False,False,False
-sub-14,F,Y,N,True,True,True,True,True
-sub-15,M,N,Y,True,True,True,True,False
-sub-16,M,N,Y,False,False,False,False,False
-sub-17,F,Y,Y,True,True,True,True,False
-sub-18,M,Y,Y,True,True,True,True,True
-sub-19,M,Y,N,True,True,True,True,False
-sub-20,F,Y,Y,True,True,True,True,True
-sub-21,M,Y,Y,True,True,True,True,False
-sub-22,F,Y,N,True,True,True,True,True
-sub-23,M,N,N,False,False,False,False,True
-sub-24,M,N,Y,True,True,True,True,True
-sub-25,F,Y,N,True,True,True,True,True
-sub-26,F,N,Y,True,True,True,True,True
-sub-27,F,N,N,True,True,True,True,True
-sub-28,F,N,Y,True,True,True,True,True
-sub-29,M,N,Y,True,True,True,True,True
-sub-30,F,N,N,True,True,True,True,True
-sub-31,F,N,Y,True,True,True,True,True
+participant_id	sex	age	native_english	ses-rest
+sub-02	F	25	N 	TRUE
+sub-03	F	19	Y	TRUE
+sub-04	M	29	Y	FALSE
+sub-06	F	23	Y	TRUE
+sub-08	F	28	Y	TRUE
+sub-09	M	27	Y	FALSE
+sub-10	F	25	Y	TRUE
+sub-12	F	27	Y	TRUE
+sub-14	F	26	N	TRUE
+sub-15	M	25	Y	FALSE
+sub-17	F	21	Y	FALSE
+sub-18	M	24	Y	TRUE
+sub-19	M	24	N	FALSE
+sub-20	F	21	Y	TRUE
+sub-21	M	21	Y	FALSE
+sub-22	F	23	N	TRUE
+sub-24	M	20	Y	TRUE
+sub-25	F	25	N	TRUE
+sub-26	F	21	Y	TRUE
+sub-27	F	22	N	TRUE
+sub-28	F	20	Y	TRUE
+sub-29	M	21	Y	TRUE
+sub-30	F	22	N	TRUE
+sub-31	F	20	Y	TRUE

@@ -1,9 +1,4 @@
 
-1.0.0	2019-08-26
+1.0.0	2020-05-10
 
 	- Initial snapshot
-
-1.1.0	2020-04-30
-
-	- First public release
-	- Note that the sequence of tasks in each run was indetical for all participants, enabling users to treat the experiment like a movie data set. In session A2, the sequence for S18 and S21 was the run 2 (s18) or run 3 (s21) was interrupted and collected in the end of the experiment. In this release, we have corrected the sequence, such that all runs of a specific number have exactly the same task structure.
